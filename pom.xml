@@ -51,13 +51,13 @@
     <properties>
         <junit.version>4.11</junit.version>
         <surefire.version>2.16</surefire.version>
-        <netty.version>4.0.24.Final</netty.version>
+        <netty.version>4.0.45.Final</netty.version>
     </properties>
     <dependencies>
         <dependency>
             <groupId>org.apache.maven</groupId>
             <artifactId>maven-plugin-api</artifactId>
-            <version>3.2.5</version>
+            <version>3.5.0</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -82,12 +82,12 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>1.1.2</version>
+            <version>1.2.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>18.0</version>
+            <version>24.1.1-jre</version>
         </dependency>
 
         <dependency>
