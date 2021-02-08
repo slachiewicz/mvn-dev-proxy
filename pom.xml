@@ -51,7 +51,7 @@
     <properties>
         <junit.version>4.11</junit.version>
         <surefire.version>2.16</surefire.version>
-        <netty.version>4.0.24.Final</netty.version>
+        <netty.version>4.1.59.Final</netty.version>
     </properties>
     <dependencies>
         <dependency>
